@@ -1,2 +1,2 @@
 # spotify
-[spotify]spotifymodnishuyadav1817.netlify.app
+[spotify] spotifymodnishuyadav1817.netlify.app
