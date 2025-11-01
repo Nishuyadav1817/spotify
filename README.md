@@ -1,2 +1,2 @@
 # spotify
-[Visit My spotify](spotifymodnishuyadav1817.netlify.app)
+[ My spotify](https://spotifymodnishuyadav1817.netlify.app/)
